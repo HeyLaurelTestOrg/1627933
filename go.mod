@@ -7,9 +7,3 @@ require (
 	sigs.k8s.io/kustomize/api v0.6.0
 	sigs.k8s.io/yaml v1.2.0
 )
-
-exclude (
-	github.com/pkg/errors v0.8.0
-	github.com/pkg/errors v0.8.1
-	github.com/pkg/errors v0.9.0
-)
